@@ -1,0 +1,3 @@
+# -*-coding:utf-8-*-
+olá mundo
+curso python com mysql
